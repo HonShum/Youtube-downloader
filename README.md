@@ -1,6 +1,7 @@
 # YoutubeDownloader
-download youtube/audio from Youtube
+<p>A Python application using pytuber to download youtube/audio from Youtube</p>
 
+<hr>
 
-Install & Setup
-$ pip install pytuber
+<strong>Install & Setup:</strong>
+<p>$ pip install pytuber</p>
